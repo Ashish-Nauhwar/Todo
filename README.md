@@ -7,7 +7,6 @@ A modern, fast, and responsive **Todo Application** designed to help users organ
 ## 🚀 Features
 
 * **CRUD Operations:** Easily create, read, update, and delete tasks.
-* **Status Toggling:** Mark tasks as completed or active with a single click.
 * **Persistent Storage:** Saves your todos locally so you don't lose data on page refresh (if local storage is implemented).
 
 ---
